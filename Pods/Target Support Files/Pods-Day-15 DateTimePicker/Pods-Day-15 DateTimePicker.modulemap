@@ -1,0 +1,6 @@
+framework module Pods_Day_15_DateTimePicker {
+  umbrella header "Pods-Day-15 DateTimePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
